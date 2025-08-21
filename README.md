@@ -1,7 +1,6 @@
 # LENDRIVE - Safety-Monitoring-System-Vehicle-Black-Box
 
-LENDRIVE
-Safety Monitoring System &amp; Vehicle Black Box
+LENDRIVE - Safety Monitoring System &amp; Vehicle Black Box
 
 
 This project is a smart security system aimed at ensuring the safety and proper management of vehicles lent to different users. It integrates cutting-edge technologies to offer real-time tracking, remote control, usage monitoring, and instant security alerts.
